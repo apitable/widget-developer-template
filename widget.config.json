@@ -1,0 +1,21 @@
+{
+  "packageId": "",
+  "spaceId": "",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "SDK 功能示例",
+    "en-US": "SDK function example"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorName": "APITable",
+  "authorIcon": "./author_icon.png",
+  "authorLink": "https://apitable.com",
+  "authorEmail": "dev@apitable.com",
+  "description": {
+    "zh-CN": "从一个有较完整 SDK 功能的小程序开始开发",
+    "en-US": "Start building from a demo widget with common SDK functions"
+  },
+  "globalPackageId": "",
+  "sandbox": true
+}
